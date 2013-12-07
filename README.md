@@ -1,0 +1,7 @@
+ShopShopLady
+============
+
+old skool project
+
+ITS NOT ABOUT THE PROGRAM.
+ITS ABOUT PASSING THE JAVA PROGRAMMING SUBJECT
